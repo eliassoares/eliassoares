@@ -26,8 +26,6 @@ Além de adorar programar, o que faço também como hobbie, também gosto de:
 - Cervejas;
 - Podcasts e músicas.
 
-Tenho dois blogs, os quais você pode acessar por aqui:
+Tenho um blog, o qual você pode acessar por aqui:
 - [https://eliassoares.com/](https://eliassoares.com/);
-- [https://ocaminhante.blog.br/](https://ocaminhante.blog.br/).
-
 Nos vemos por aí ;)
