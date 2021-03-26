@@ -28,4 +28,6 @@ Além de adorar programar, o que faço também como hobbie, também gosto de:
 
 Tenho um blog, o qual você pode acessar por aqui:
 - [https://eliassoares.com/](https://eliassoares.com/);
+
+
 Nos vemos por aí ;)
