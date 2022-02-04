@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Olá!
-Sou Eias, quando eu era criança, eu desmontava meus brinquedos para criar novos, hoje faço algo parecido com códigos.
+Sou Elias, quando eu era criança, eu desmontava meus brinquedos para criar novos, hoje faço algo parecido com códigos.
 
 Além de adorar programar, o que faço também como hobbie, também gosto de:
 - Cozinhar;
