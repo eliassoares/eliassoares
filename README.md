@@ -20,7 +20,7 @@ Além de adorar programar, o que faço também como hobbie, também gosto de:
 - Cozinhar;
 - Fazer trilhas na natureza;
 - Ler;
-- Jogar Steam|PS4;
+- Jogar no PS5;
 - Namorar;
 - Brincar com meu cachorro Malte;
 - Cervejas;
