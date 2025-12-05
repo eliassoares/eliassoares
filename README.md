@@ -28,9 +28,13 @@ What I Do:
 - Developed self-service SQL platform empowering data analysts to create custom reports
 
 Tech Stack:
+
 Python • PySpark • Databricks • Apache Airflow • AWS • PostgreSQL • Docker • Django • Node.js • Go • Apache HUDI • Terraform
 
 Background:
+
 Computer Science graduate from Universidade Federal de Minas Gerais (UFMG). Former backend developer at Studio Sol, working on platforms serving tens of millions of daily users across Brazil and Latin America.
+
 When I'm not engineering data solutions, I'm passionate about technology education—I've taught robotics and programming to 70 public school students.
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/eliassbsoares/)
