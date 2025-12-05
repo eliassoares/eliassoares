@@ -23,7 +23,7 @@ What I Do:
 
 # Notable Projects:
 - Reduced ETL processing time from 2+ hours to under 20 minutes through PySpark optimization
-- Built serverless event processing handling millions of JSON files for under $10/month
+- Built serverless event processing handling thousands of JSON files for under $10
 - Architected AI agent framework for automated insurance application processing
 - Developed self-service SQL platform empowering data analysts to create custom reports
 
